@@ -69,6 +69,8 @@ export default function Onboarding({ pronoun, setPronoun, nickname, setNickname,
 
           <div className="text-xs text-slate-500 dark:text-slate-400">
             Privacidad por defecto: tus datos viven en tu dispositivo y puedes borrarlos cuando quieras desde Ajustes.
+            Al continuar, aceptas la <a className="text-slate-700" href="/privacy">política de privacidad y consentimiento</a>.
+
           </div>
         </CardContent>
       </Card>

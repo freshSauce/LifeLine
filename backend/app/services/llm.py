@@ -1,6 +1,3 @@
-from typing import Any, Coroutine
-
-from openai.types.chat import ChatCompletionMessage
 from openai import OpenAI
 
 from backend.app.core import settings
